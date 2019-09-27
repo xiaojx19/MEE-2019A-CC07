@@ -46,4 +46,4 @@
 |2318  |[程](markdown/2318.md)    |   |	
 |1181  |[姜](markdown/1181.md)    |   |	
 |1145  |[李](markdown/1145.md)    |   |
-|1140  |[肖]（markdown/自我介绍 肖嘉昕.md）|   |
+|1140  |[肖](markdown/1140.md）   |   |
